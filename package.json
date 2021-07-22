@@ -1,0 +1,27 @@
+{
+  "name": "netninja_nodejs_lesson_24",
+  "version": "1.0.0",
+  "description": "demos express route params",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_24.git"
+  },
+  "keywords": [
+    "express",
+    "route",
+    "params"
+  ],
+  "author": "Michael Clautice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_24/issues"
+  },
+  "homepage": "https://github.com/MichaelClautice/NetNinja_NodeJS_Lesson_24#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
